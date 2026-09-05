@@ -1,0 +1,14 @@
+{
+  "name": "pystart",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PyStart — Learn Python From Zero, with a Claude-powered tutor.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5"
+  }
+}
